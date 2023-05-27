@@ -1,0 +1,10 @@
+File::
+
+Password -> SRNG -> Encrypt File -> DERIVEDPASSWORD -> Entry Password
+
+Entry Format::
+
+    Name::
+    Email::
+    Password::
+    Two Factor::
